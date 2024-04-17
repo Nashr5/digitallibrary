@@ -109,7 +109,7 @@ if ($_SESSION['Level'] == "") {
                     <div class="footer-item">
                         <h4 class="text-light mb-3">Why People Like us!</h4>
                         <p class="mb-4">Kita suka perpustakaan digital karena memberikan akses mudah dan cepat ke berbagai informasi dan sumber daya tanpa perlu meninggalkan kenyamanan rumah atau tempat kerja.</p>
-                        <a href="" class="btn border-secondary py-2 px-4 rounded-pill text-primary">Read More</a>
+                        
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
