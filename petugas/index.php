@@ -17,7 +17,7 @@
   <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
   <link rel="icon" type="image/png" href="https://cdn.icon-icons.com/icons2/504/PNG/512/book-15_icon-icons.com_49264.png">
   <title>
-    Argon Dashboard 2 by Creative Tim
+    Petugas Digital Library
   </title>
   <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
